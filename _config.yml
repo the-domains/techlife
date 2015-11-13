@@ -1,0 +1,23 @@
+name: TechLife
+favicon: null
+layout_spectrum: 0.2445055425632745
+typography_spectrum: 0.33487869473174214
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.04997185920365155
+  lightness: 0.9627077023033053
+  saturation: 0.7728724414482713
+  rhythmicContrast: 0.4586350054014474
+purpose: []
