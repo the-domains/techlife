@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[TechLife]]></title>
         <description><![CDATA[TechLife]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/techlife/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 22:45:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 Nov 2015 22:46:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/techlife/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Slow Death of Adobe Flash]]></title>
+            <description><![CDATA[<article><h1>The Slow Death of Adobe Flash</h1><p>AUG 2015 Posted by David Hagy | Blog Adobe flash has been in the news lately with the new exploits announced and many tech blogs stating Adobe Flash needs to be removed for good. And while this is good advice to delete and forget Flash it is not that easy for businesses.</p><img src="http://www.davidhagy.com/wp-content/uploads/2015/08/Flash-blog.png"></article>]]></description>
+            <link>http://www.davidhagy.com/the-slow-death-of-adobe-flash/</link>
+            <guid isPermaLink="false">87a4ba10-7c33-4c18-bc3d-2069e236605f</guid>
+            <pubDate>Thu, 19 Nov 2015 22:46:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[YouTube Music is here, and it's a game changer]]></title>
             <description><![CDATA[<article><h1>YouTube Music is here, and it's a game changer</h1><p>YouTube is first and foremost a video portal, the world's largest and most popular online collection of moving images. But it's also a search engine, the world's second largest, trailing only its parent company, Google.</p><img src="https://cdn1.vox-cdn.com/thumbor/aVjVBWL089vt-a-o2ZsfhbM-xnU=/0x0:1573x885/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/47647813/mus1.0.0.jpg"></article>]]></description>
